@@ -1,0 +1,1 @@
+print("This is my first attempt on creating a data science project")
